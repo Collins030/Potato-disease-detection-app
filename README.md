@@ -116,6 +116,6 @@ React Documentation: Reference for developing the web application.
 Potato Disease Dataset from kaggle: The dataset used for training and evaluating the model.
 CodeBasics: Inspiration for the classification model architecture.
 
-![Image Alt](https://github.com/Collins030/Potato-disease-detection-app/blob/2bd5a9147ba5911644d6c6de0e21d986e2e6253f/earlyblightconf.png?raw=true)
+
 
 
