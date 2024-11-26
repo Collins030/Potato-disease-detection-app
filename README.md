@@ -115,6 +115,4 @@ FastAPI: A lightweight framework for serving the model predictions.
 React Documentation: Reference for developing the web application.
 Potato Disease Dataset from kaggle: The dataset used for training and evaluating the model.
 CodeBasics: Inspiration for the classification model architecture.
-![lateblightconfirm](https://github.com/user-attachments/assets/3b028bce-4cae-4c58-87af-869b7db434b2)
-![healthyconf](https://github.com/user-attachments/assets/7cd1b432-f2d1-44de-8686-e3d9e8829522)
-![earlyblightconf](https://github.com/user-attachments/assets/8fe4c057-5847-4b31-8c0a-f0d421a85fd5)
+https://github.com/Collins030/Potato-disease-detection-app/blob/2bd5a9147ba5911644d6c6de0e21d986e2e6253f/earlyblightconf.png
