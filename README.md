@@ -117,5 +117,5 @@ Potato Disease Dataset from kaggle: The dataset used for training and evaluating
 CodeBasics: Inspiration for the classification model architecture.
 
 ![image alt](https://github.com/Collins030/Potato-disease-detection-app/blob/main/earlyblightconf.png?raw=true)
-![Early Blight Confidence](https://raw.githubusercontent.com/Collins030/Potato-disease-detection-app/main/earlyblightconf.png)
+![Early Blight Confidence](https://github.com/Collins030/Potato-disease-detection-app/blob/095c106084088862fbdd6b6be845b602ab93febb/earlyblightconf.png)
 
